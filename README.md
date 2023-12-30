@@ -1,5 +1,5 @@
 # powersites
 
-"List of all Powersites Projects"
+List of all Powersites Projects
 
 
